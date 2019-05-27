@@ -1,0 +1,28 @@
+/*.el-header{*/
+  /*padding: 0px;*/
+  /*height: 150px !important;*/
+/*}*/
+
+.logo{
+  float: right;
+  margin-top: 30px;
+}
+.logo-text{
+  float: left;
+  margin-top: 30px;
+}
+.logo,.logo-text{
+  font-size: 32px;
+  color: white;
+}
+
+/*#el-menu{*/
+  /*margin-left: 10%;*/
+  /*margin-top: 10%;*/
+  /*margin-bottom: 2%;*/
+  /*border-color: #555555 !important;*/
+  /*width: auto !important;*/
+/*}*/
+.el-submenu__title:hover,.el-menu-item:hover{
+  color: gold !important;
+}
